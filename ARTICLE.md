@@ -7,3 +7,6 @@ https://devblog.xero.com/encryption-101-why-it-matters-in-software-development-2
 
 ### Proof Reading
 Article checked for typos
+
+### Sarah's comment
+Cool article on encryption
